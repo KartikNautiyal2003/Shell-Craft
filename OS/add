@@ -1,0 +1,16 @@
+CLA
+CLA.c
+a.out
+add
+add.c
+exec
+exec.c
+fork
+fork.c
+getline
+getline.c
+strtok.c
+subtract
+subtract.c
+wait
+wait.c
